@@ -1,0 +1,1 @@
+"A web application for FIU students that allows them to search for available courses by interacting with their degree flowchart. Course Checker reduces the time students spend on searching for courses by allowing them to search for multiple courses at once and by displaying course availability on the flowchart." 
